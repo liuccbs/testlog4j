@@ -5,14 +5,6 @@ public class test2 {
 	public static void main(String[] args) {
 		
 		
-		
-
-	/*	int[] arr=new int [10];
-		arr[0]=2;
-		for (int i = 0; i < arr.length; i++) {
-			System.out.println(arr[i]);
-		}*/
-		
 		int[] arr =new int[]{1,2,3,42,7,3,56};
 		
 		for (int i = 0; i < arr.length-1; i++) {
@@ -32,6 +24,9 @@ public class test2 {
 			
 			System.out.println("哈哈哈哈");
 		}
+		
+		
+	System.out.println("jj");
 	}
 
 }
