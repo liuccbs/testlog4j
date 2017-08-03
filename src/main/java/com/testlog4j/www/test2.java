@@ -4,7 +4,7 @@ public class test2 {
 	
 	public static void main(String[] args) {
 		
-		
+	//syso正是哈哈哈哈
 		int[] arr =new int[]{1,2,3,42,7,3,56};
 		
 		for (int i = 0; i < arr.length-1; i++) {
